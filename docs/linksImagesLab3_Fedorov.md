@@ -1,0 +1,5 @@
+[Github] (https://github.com/TimofeyMeshcheryakov/Lab3-MarkdownLatex_Fedorov.git)
+[Скриншот задания] (https://github.com/TimofeyMeshcheryakov/Lab3-MarkdownLatex_Fedorov/blob/master/img/commitStructureLab3_Fedorov.png)
+ [Markdown] (https://www.markdownguide.org/)
+[второе задание] (https://github.com/TimofeyMeshcheryakov/Lab3-MarkdownLatex_Fedorov/blob/master/img/separatorsCommitLab3_Fedorov.png)
+[ютуб] (https://www.youtube.com/?app=desktop&hl=ru)
